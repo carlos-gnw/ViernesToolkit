@@ -1,0 +1,23 @@
+[
+  {"id": 1, "group": "L11 Tools", "label": "Activar K2V4"},
+  {"id": 2, "group": "L11 Tools", "label": "SW Autoconfig"},
+  {"id": 3, "group": "L11 Tools", "label": "Rack Information"},
+  {"id": 4, "group": "L11 Tools", "label": "PCIe Verification"},
+  {"id": 5, "group": "MLA Tools", "label": "Ejecutar UART Tool"},
+  {"id": 6, "group": "MLA Tools", "label": "Proxy Cards Check"},
+  {"id": 7, "group": "MLA Tools", "label": "Verificación de K2V5 card type"},
+  {"id": 8, "group": "MLA Tools", "label": "Limpiar eventos (SEL Clear)"},
+  {"id": 9, "group": "MLA Tools", "label": "Mostrar Sensor List"},
+  {"id": 10, "group": "MLA Tools", "label": "Sel Clear + VPD"},
+  {"id": 11, "group": "MLA Tools", "label": "Imprimir FRU"},
+  {"id": 12, "group": "MLA Tools", "label": "Verificar BMC Network"},
+  {"id": 13, "group": "MLA Tools", "label": "Clear DHCP + VPD"},
+  {"id": 14, "group": "MLA Tools", "label": "Check IPV4 (extend)"},
+  {"id": 15, "group": "Power", "label": "BMC Reboot"},
+  {"id": 16, "group": "Power", "label": "Sol Activate"},
+  {"id": 17, "group": "Debug", "label": "Issue TT2_K2V4_KEG_SYNC"},
+  {"id": 18, "group": "Others", "label": "Opinión/Sugerencias de Tools"},
+  {"id": 19, "group": "Others", "label": "Node Information | Buscar unidad"},
+  {"id": 99, "group": "Compatibilidad", "label": "Legacy Launcher (scripts originales)"},
+  {"id": 20, "group": "Sistema", "label": "Salir"}
+]
